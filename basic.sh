@@ -1,4 +1,4 @@
-echo -e "\e[1;31mThe script is  made by ShuBhamg0sain"
+echo -e "\e[1;31mThe script is  made by Monster-lallu"
 echo ""
 echo -e "\e[1;31m follow me on Instagram https://www.instagram.com/shubham_g0sain/?hl=en"
 echo ""
