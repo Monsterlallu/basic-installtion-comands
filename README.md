@@ -18,3 +18,7 @@ git clone https://github.com/Monsterlallu/basic-installtion-comands.git
 cd basic-installtion-comands
 
 bash basic.sh
+
+
+
+# THE TOOL BY KCH MONSTER LALLU
