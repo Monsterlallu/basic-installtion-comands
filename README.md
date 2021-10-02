@@ -13,7 +13,7 @@ apt upgrade
 
 apt install git
 
-git clone https://github.com/ShuBhamg0sain/basic-installtion-comands
+git clone https://github.com/Monsterlallu/basic-installtion-comands.git
 
 cd basic-installtion-comands
 
